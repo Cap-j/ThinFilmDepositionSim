@@ -2,7 +2,7 @@
 
 This simulation was written as the final project in my B.Eng. in Electronic and Computer Engineering (major in Systems and Devices).
 
-The program simulates the plasma-enhanced physical vapour deposition process, which is a technique sued in microelectronics fabrication. It implements the use of the OpenGL API and the freeGlut library (available at http://freeglut.sourceforge.net/) in order to visualise the process.
+The program simulates the plasma-enhanced physical vapour deposition process, which is a technique sued in microelectronics fabrication. It implements the use of the OpenGL API and the freeGlut library (available at http://freeglut.sourceforge.net/) in order to visualise the process. The deliverable of this simulation is the distribution of target atoms (seen in green) with response to variables such as the angle at which they are ejected from their original position and the plasma density (seen in grey).
 
 ![image](https://user-images.githubusercontent.com/60896755/115219142-2010ab00-a0ff-11eb-823b-a15c61ee12af.png)
 
